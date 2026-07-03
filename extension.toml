@@ -1,0 +1,7 @@
+id = "manuscript-theme"
+name = "Manuscript Theme"
+version = "0.1"
+schema_version = 1
+authors = ["JoyAndEnjoy"]
+description = "A warm, old-paper theme collection. I recommend the high-contrast variant."
+repository = "https://github.com/JoyAndEnjoy/zed-manuscript-theme"
