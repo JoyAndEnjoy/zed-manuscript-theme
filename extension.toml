@@ -1,7 +1,7 @@
 id = "manuscript-theme"
 name = "Manuscript Theme"
-version = "0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["JoyAndEnjoy"]
-description = "A warm, old-paper theme collection. I recommend the high-contrast variant."
+description = "A warm, old-paper theme collection"
 repository = "https://github.com/JoyAndEnjoy/zed-manuscript-theme"
