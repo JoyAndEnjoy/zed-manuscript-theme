@@ -1,10 +1,10 @@
 {
     "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-    "name": "Manuscript Theme Light",
+    "name": "Manuscript Light",
     "author": "JoyAndEnjoy",
     "themes": [
         {
-            "name": "Manuscript Theme Light",
+            "name": "Manuscript Light",
             "appearance": "light",
             "style": {
                 "border": "#3A332C1A",
