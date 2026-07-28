@@ -1,6 +1,6 @@
 # Manuscript Themes for Zed Editor
 
-A color theme extension for the Zed editor inspired by old books and the comfort of ivory backgrounds. This theme designed to reduce eye strain during long coding sessions. 
+A color theme extension for the Zed editor inspired by old books and the comfort of ivory backgrounds.
 
 ## Previews
 
@@ -21,9 +21,7 @@ A color theme extension for the Zed editor inspired by old books and the comfort
 ## Features
 
 ### Warm
-
 ### Comfy
-
 ### Paper-like
 
 ---
